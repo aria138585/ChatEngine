@@ -36,6 +36,9 @@
 *.x86_64
 *.hex
 
+# CMake files
+build/
+
 # Debug files
 *.dSYM/
 *.su
